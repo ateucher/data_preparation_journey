@@ -24,7 +24,7 @@ Today, data about _you_ might be collected when you:
 A lot has been written about the benefits of organizations being "data-driven", when good data analysis leads to better decisions. There is no limit to the contexts where data analysis is being applied. In the private sector businesses can compete on analytics [@Davenport_Harris_2007], including retailers [@stitchfix_algo] and supply chain management [@Ashton_2018]. It can also be used in the public sector: data analysis can inform 
 public health strategies during a pandemic [@Polonsky_etal_2019].
 
-The process of going from raw data, collected during processes like those described above, to support decision making is often called data science. Data science combines the academic disciplines of statistics, computer programming, and the subject matter (be it astronomy, psychology, economics, or business). [@Conway_Venn_2010]
+The process of going from raw data, collected during processes like those described above, to results and conclusions that support decision making is often called data science. Data science combines the academic disciplines of statistics, computer programming, and the subject matter (be it astronomy, psychology, economics, or business). [@Conway_Venn_2010]
 
 The typical data science process has been described in this model [@Wickham_Grolemund2016]:
 
